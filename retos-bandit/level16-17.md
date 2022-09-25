@@ -193,8 +193,8 @@ bandit17@bandit:~$
 ```
 
 ## Notas adicionales
-**nmap** realizar funciones de auditoría y seguridad de redes, rastreo y análisis en busca de sistemas para elaborar un inventario de red
-**chmod** cambia los permisos de un archivo o carpeta.
+- **nmap** realizar funciones de auditoría y seguridad de redes, rastreo y análisis en busca de sistemas para elaborar un inventario de red
+- **chmod** cambia los permisos de un archivo o carpeta.
 
 ## Referencias
 [Port scanner on Wikipedia](https://en.wikipedia.org/wiki/Port_scanner)

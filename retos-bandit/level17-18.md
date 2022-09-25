@@ -26,9 +26,9 @@ bandit17@bandit:~$
 ## Notas adicionales
 Comando head muestra las ultimas lineas
 
-head -n 10
-tail -n15
-wc
+- head -n 10
+- tail -n15
+- wc
 
 **diff** muestra las diferencias entre dos archivos
 

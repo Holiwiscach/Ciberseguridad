@@ -23,7 +23,7 @@ bandit19@bandit:~$
 
 
 ## Notas adicionales
-el **-rwsr-x---** nos dice que tenemos permiso de usarlo en mobre del usuario al que le pertenece
+- el **-rwsr-x---** nos dice que tenemos permiso de usarlo en mobre del usuario al que le pertenece
 
 ## Referencias
 [setuid on Wikipedia](https://en.wikipedia.org/wiki/Setuid)

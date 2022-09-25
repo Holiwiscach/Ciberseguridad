@@ -45,6 +45,6 @@ holiwiscach@ubuntu:~$
 ```
 
 ## Notas adicionales
-**ssh bandit18@bandit.labs.overthewire.org -p 2220 /bin/bash** crear una linea de comandos antes de que salga del log 
+- **ssh bandit18@bandit.labs.overthewire.org -p 2220 /bin/bash** crear una linea de comandos antes de que salga del log 
 
 ## Referencias
