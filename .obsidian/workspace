@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/level26-27.md",
+            "file": "retos-bandit/level32-33.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/level26-27.md",
+                "file": "retos-bandit/level32-33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/level26-27.md",
+                "file": "retos-bandit/level32-33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/level26-27.md"
+                "file": "retos-bandit/level32-33.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8f2027f6f693da75",
   "lastOpenFiles": [
-    "retos-bandit/level25-26.md",
+    "retos-bandit/level31-32.md",
+    "retos-bandit/level30-31.md",
+    "retos-bandit/level29-30.md",
+    "retos-bandit/level28-29.md",
+    "retos-bandit/level27-28.md",
+    "retos-bandit/level32-33.md",
     "retos-bandit/level26-27.md",
+    "retos-bandit/level25-26.md",
     "retos-bandit/level13-14.md",
-    "retos-bandit/level14-15.md",
-    "retos-bandit/level15-16.md",
-    "retos-bandit/level16-17.md",
-    "retos-bandit/level17-18.md",
-    "retos-bandit/level18-19.md",
-    "retos-bandit/level19-20.md",
-    "retos-bandit/level20-21.md"
+    "retos-bandit/level14-15.md"
   ]
 }
