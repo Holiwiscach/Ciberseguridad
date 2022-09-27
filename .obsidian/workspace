@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/level32-33.md",
+            "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184.5
+    "width": 200.5
   },
   "right": {
     "id": "e34b2e181966d7a8",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/level32-33.md",
+                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/level32-33.md",
+                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/level32-33.md"
+                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8f2027f6f693da75",
   "lastOpenFiles": [
-    "retos-bandit/level31-32.md",
-    "retos-bandit/level30-31.md",
-    "retos-bandit/level29-30.md",
-    "retos-bandit/level28-29.md",
-    "retos-bandit/level27-28.md",
-    "retos-bandit/level32-33.md",
-    "retos-bandit/level26-27.md",
-    "retos-bandit/level25-26.md",
-    "retos-bandit/level13-14.md",
-    "retos-bandit/level14-15.md"
+    "picoCTF/2021/General Skills/05-Tab, Tab, Attack.md",
+    "picoCTF/2021/General Skills/04-Static ain't always noise.md",
+    "picoCTF/2021/General Skills/03-Nice netcat....md",
+    "picoCTF/2021/General Skills/02-Wave a flag.md",
+    "picoCTF/2021/General Skills/01-Obedient Cat.md",
+    "picoCTF/2019/General Skills/09-plumbing.md",
+    "picoCTF/2019/General Skills/08-Based.md",
+    "picoCTF/2019/General Skills/07-First Grep.md",
+    "picoCTF/2019/General Skills/06-Bases.md",
+    "picoCTF/2019/General Skills/05-strings it.md"
   ]
 }
