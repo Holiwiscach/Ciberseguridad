@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
+            "file": "picoCTF/2021/Web Exploration/parte 3-3 Scavenger Hunt.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
+                "file": "picoCTF/2021/Web Exploration/parte 3-3 Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
+                "file": "picoCTF/2021/Web Exploration/parte 3-3 Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md"
+                "file": "picoCTF/2021/Web Exploration/parte 3-3 Scavenger Hunt.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8f2027f6f693da75",
   "lastOpenFiles": [
-    "picoCTF/2021/General Skills/05-Tab, Tab, Attack.md",
-    "picoCTF/2021/General Skills/04-Static ain't always noise.md",
-    "picoCTF/2021/General Skills/03-Nice netcat....md",
-    "picoCTF/2021/General Skills/02-Wave a flag.md",
-    "picoCTF/2021/General Skills/01-Obedient Cat.md",
-    "picoCTF/2019/General Skills/09-plumbing.md",
-    "picoCTF/2019/General Skills/08-Based.md",
-    "picoCTF/2019/General Skills/07-First Grep.md",
-    "picoCTF/2019/General Skills/06-Bases.md",
-    "picoCTF/2019/General Skills/05-strings it.md"
+    "picoCTF/2021/Web Exploration/parte 3-2 Cookies.md",
+    "picoCTF/2021/Web Exploration/parte 3-1 GET aHEAD.md",
+    "picoCTF/2021/Web Exploration/parte 3-3 Scavenger Hunt.md",
+    "picoCTF/2019/Web Exploitation/parte 2-1 Irish-Name-Repo 1.md",
+    "picoCTF/2019/Web Exploitation/parte 2-2 Irish-Name-Repo 2.md",
+    "picoCTF/2019/Web Exploitation/parte 2-3 Irish-Name-Repo 3.md",
+    "picoCTF/2019/Web Exploitation/parte 2-4 jaWT Scratchpad.md",
+    "picoCTF/Archivo estructura.md",
+    "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
+    "picoCTF/2021/General Skills/05-Tab, Tab, Attack.md"
   ]
 }
