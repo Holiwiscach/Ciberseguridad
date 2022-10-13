@@ -5,3 +5,4 @@ Hints:
 - folders folders folders
 
 ## Solución
+Se intentó resolver este problema, sin embargo no se pudo soluciónar, también se busco la solución en internet, pero por algúna razón no me deja navegar por los folders.

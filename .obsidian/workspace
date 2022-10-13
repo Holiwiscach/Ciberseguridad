@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picoCTF/2022/Web Exploration/09 SQL Direct.md",
+            "file": "picoCTF/2022/Web Exploration/08 Secrets.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2022/Web Exploration/09 SQL Direct.md",
+                "file": "picoCTF/2022/Web Exploration/08 Secrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2022/Web Exploration/09 SQL Direct.md",
+                "file": "picoCTF/2022/Web Exploration/08 Secrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2022/Web Exploration/09 SQL Direct.md"
+                "file": "picoCTF/2022/Web Exploration/08 Secrets.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "8f2027f6f693da75",
   "lastOpenFiles": [
-    "picoCTF/2022/Web Exploration/10 SQLLite.md",
     "picoCTF/2022/Web Exploration/09 SQL Direct.md",
+    "picoCTF/2022/Web Exploration/10 SQLLite.md",
     "picoCTF/2022/Web Exploration/02 Inspect HTML.md",
     "picoCTF/2022/Web Exploration/01 Includes.md",
     "picoCTF/2019/Web Exploitation/parte 2-4 jaWT Scratchpad.md",
