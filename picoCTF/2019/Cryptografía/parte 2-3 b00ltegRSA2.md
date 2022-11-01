@@ -22,3 +22,21 @@ b'picoCTF{bad_1d3a5_2152720}'
 
 
 ```
+c = texto cifrdo
+m = mensaje de texto plan
+p = numero primo
+q = numero primo
+n = modulo
+tn = totient n
+e = exponente (llave publica) = 65537
+d = llave privada
+
+n = p * q
+tn = (p-1) * (q-1)
+d = e mod inv tn
+
+Encriptar: python pow(m,e,n)
+c = m ^ e mod n
+
+Desencriptar: pow(c,d,n)
+m = c ^ d mod n
