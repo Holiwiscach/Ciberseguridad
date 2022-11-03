@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 1-1 vault-door-training.md",
+                "file": "picoCTF/2019/Reversing/parte 1-3 vault-door-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 1-1 vault-door-training.md",
+                "file": "picoCTF/2019/Reversing/parte 1-3 vault-door-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 1-1 vault-door-training.md",
+                "file": "picoCTF/2019/Reversing/parte 1-3 vault-door-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 1-1 vault-door-training.md"
+                "file": "picoCTF/2019/Reversing/parte 1-3 vault-door-3.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "556697286b4adae7",
   "lastOpenFiles": [
+    "picoCTF/2019/Reversing/parte 1-2 vault-door-1.md",
     "picoCTF/2019/Reversing/parte 1-1 vault-door-training.md",
     "picoCTF/2019/Reversing/parte 1-3 vault-door-3.md",
-    "picoCTF/2019/Reversing/parte 1-2 vault-door-1.md",
     "picoCTF/2019/Reversing/parte 1-4 vault-door-4.md",
     "picoCTF/2019/Untitled.md",
     "picoCTF/2022/Cryptografía/05 Morsecode.md",
