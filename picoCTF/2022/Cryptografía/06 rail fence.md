@@ -7,7 +7,7 @@ Hints:
 
 [CyberChef](https://gchq.github.io/CyberChef/#recipe=Rail_Fence_Cipher_Decode(4,0)&input=VGEgXzdONkQ0OWhsZzpXM0RfSDNDMzFOX19BOTdlZiBzSFIwNTNGMzhONDNEN0IgaTMzX19fTjY)
 
-Se puede solucionar con cyberChef usando el filtro **Rail Fence Cipher Decode** con key 4
+Se puede solucionar con cyberChef usando el filtro **Rail Fence Cipher Decode** con key 4.
 
 bandera:
 picoCTF{WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_4A76B997}
