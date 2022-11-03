@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/03 basic-mod1.md",
+                "file": "picoCTF/2022/Cryptografía/05 Morsecode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/03 basic-mod1.md",
+                "file": "picoCTF/2022/Cryptografía/05 Morsecode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/03 basic-mod1.md",
+                "file": "picoCTF/2022/Cryptografía/05 Morsecode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/03 basic-mod1.md"
+                "file": "picoCTF/2022/Cryptografía/05 Morsecode.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "736a93c177f95d11",
   "lastOpenFiles": [
-    "picoCTF/2022/Cryptografía/parte 3-4 basic-mod1.md",
-    "picoCTF/2022/Cryptografía/03 basic-mod1.md",
-    "picoCTF/2021/Cryptografía/01 Mod 26.md",
-    "picoCTF/2019/Cryptografía/parte 1-6 Tapping.md",
-    "picoCTF/2019/Cryptografía/parte 1-7 waves over lambda.md",
-    "picoCTF/2019/Cryptografía/parte 2-1 rsa-pop-quiz.md",
-    "picoCTF/2019/Cryptografía/parte 2-2 miniRSA.md",
-    "picoCTF/2019/Cryptografía/parte 2-3 b00ltegRSA2.md",
-    "picoCTF/2021/Cryptografía/02 MiniRSA.md",
-    "picoCTF/2022/Cryptografía/06 rail fence.md"
+    "picoCTF/2022/Cryptografía/04 credstuff.md",
+    "picoCTF/2022/Cryptografía/05 Morsecode.md",
+    "Metared_International/Crypto/eden mine.md",
+    "picoCTF/2019/Web Exploitation/parte 1-1 Insp3ct0r.md",
+    "picoCTF/2019/General Skills/09-plumbing.md",
+    "picoCTF/2019/General Skills/08-Based.md",
+    "picoCTF/2019/General Skills/07-First Grep.md",
+    "picoCTF/2019/General Skills/06-Bases.md",
+    "picoCTF/2019/General Skills/05-strings it.md",
+    "picoCTF/2019/General Skills/04-what's a net cat?.md"
   ]
 }
