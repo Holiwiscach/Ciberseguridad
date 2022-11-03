@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/06 rail fence.md",
+                "file": "picoCTF/2021/Cryptografía/01 Mod 26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/06 rail fence.md",
+                "file": "picoCTF/2021/Cryptografía/01 Mod 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/06 rail fence.md",
+                "file": "picoCTF/2021/Cryptografía/01 Mod 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2022/Cryptografía/06 rail fence.md"
+                "file": "picoCTF/2021/Cryptografía/01 Mod 26.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "736a93c177f95d11",
   "lastOpenFiles": [
+    "picoCTF/2022/Cryptografía/06 rail fence.md",
     "picoCTF/2022/Cryptografía/05 Morsecode.md",
     "picoCTF/2022/Cryptografía/04 credstuff.md",
     "picoCTF/2022/Cryptografía/03 basic-mod1.md",
@@ -146,7 +147,6 @@
     "picoCTF/2022/Forensic/07 St3g0.md",
     "picoCTF/2022/Forensic/03 Enhance!.md",
     "picoCTF/2022/Forensic/04 Lookey here.md",
-    "picoCTF/2022/Forensic/05 Packets Primer.md",
-    "picoCTF/2022/Forensic/06 Redaction gone wrong.md"
+    "picoCTF/2022/Forensic/05 Packets Primer.md"
   ]
 }
