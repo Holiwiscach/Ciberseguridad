@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2022/Forensic/04 Lookey here.md",
+                "file": "picoCTF/2022/Forensic/05 Packets Primer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2022/Forensic/04 Lookey here.md",
+                "file": "picoCTF/2022/Forensic/05 Packets Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2022/Forensic/04 Lookey here.md",
+                "file": "picoCTF/2022/Forensic/05 Packets Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2022/Forensic/04 Lookey here.md"
+                "file": "picoCTF/2022/Forensic/05 Packets Primer.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "baf06c7d32cb256f",
   "lastOpenFiles": [
+    "picoCTF/2022/Forensic/06 Redaction gone wrong.md",
+    "picoCTF/2022/Forensic/05 Packets Primer.md",
+    "picoCTF/2022/Forensic/04 Lookey here.md",
     "picoCTF/2022/Forensic/03 Enhance!.md",
     "picoCTF/2019/Forensic/Parte 1-3 shark on wire 1.md",
     "picoCTF/2019/Forensic/Parte 1-2 So Meta.md",
     "picoCTF/2019/Forensic/Parte 1-1 Glory of the Garden.md",
     "picoCTF/2021/Forensic/parte 3-5 Wireshark twoo twoo twoo twoo.md",
     "picoCTF/2021/Forensic/parte 3-4 Trivial Flag Transfer Protocol.md",
-    "picoCTF/2021/Forensic/parte 3-3 MacroHard WeakEdge.md",
-    "picoCTF/2021/Forensic/parte 3-2 tunn3l_s1s10n.md",
-    "picoCTF/2021/Forensic/parte 3-1 Matryshka doll.md",
-    "picoCTF/2019/Forensic/parte 2-5 Webnet1.md"
+    "picoCTF/2021/Forensic/parte 3-3 MacroHard WeakEdge.md"
   ]
 }
