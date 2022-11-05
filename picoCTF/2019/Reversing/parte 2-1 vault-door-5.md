@@ -6,7 +6,7 @@ Hints:
 
 ## Solución
 
-Analizando el código, vemos que el password para primero por un array de bytes, después se convierte en hexadecimal y al final se encripta por base64.
+Analizando el código, vemos que el password primero se convierte en un array de bytes, después se convierte en hexadecimal y al final se encripta por base64.
 El password ya esta en el código en el método **checkPassword** llamado en la variable **expected**. Teniendolo ahí, podemos hacer la invers del proceso.
 
 Creamos , métodos: urldecode y base64Decode. Dónde primero convertimos a base64 decodificandolo y obteniendo el hexadecimal, después lo pasamos de hexadecimal a bytes, obteniendo eso podemos convertir los bytes en un string y obtenemos el password.
