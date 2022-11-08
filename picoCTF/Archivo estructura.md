@@ -1,6 +1,0 @@
-#
-
-
-Hints:
-
-## Solución
