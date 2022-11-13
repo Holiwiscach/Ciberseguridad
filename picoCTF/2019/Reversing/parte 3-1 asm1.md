@@ -4,3 +4,56 @@ Hints:
 1. assembly [conditions](https://www.tutorialspoint.com/assembly_programming/assembly_conditions.htm)
 
 ## Solución
+
+``` bash
+'Se hace una simulación de la pila'
+stack
+0000
+
+[ ebp ] <-esp <-ebp '+0,+1'
+[ ret ] <-ebp + 0x4 'Inicialización'
+[0x8be] <-ebp + 0x8 'Inicialización'
+fffff
+
+registers
+[ 0x8be ] eax '+46'
+
+asm1:
+	<+0>:	push   ebp
+	<+1>:	mov    ebp,esp
+
+	<+3>:	cmp    DWORD PTR [ebp+0x8],0x71c
+	<+10>:	jg     0x512 <asm1+37>
+	<+12>:	cmp    DWORD PTR [ebp+0x8],0x6cf
+	<+19>:	jne    0x50a <asm1+29>
+	<+21>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+24>:	add    eax,0x3
+	<+27>:	jmp    0x529 <asm1+60>
+	<+29>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+32>:	sub    eax,0x3
+	<+35>:	jmp    0x529 <asm1+60>
+	<+37>:	cmp    DWORD PTR [ebp+0x8],0x8be
+	<+44>:	jne    0x523 <asm1+54>
+	<+46>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+49>:	sub    eax,0x3
+	<+52>:	jmp    0x529 <asm1+60>
+	<+54>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+57>:	add    eax,0x3
+
+	<+60>:	pop    ebp
+	<+61>:	ret   
+```
+
+``` python
+>>> 0x8be >  0x71c 
+True
+>>> 0x8be != 0x8be
+False
+>>> hex(0x8be-0x3)
+'0x8bb'
+>>> 
+
+```
+
+bandera:
+0x8bb
