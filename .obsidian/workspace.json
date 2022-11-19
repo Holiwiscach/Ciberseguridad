@@ -47,11 +47,9 @@
             "id": "0c235d2f651605f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20221119152223.png"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
+                "file": "Pasted image 20221119152223.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
+                "file": "Pasted image 20221119152223.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md"
+                "file": "Pasted image 20221119152223.png"
               }
             }
           }
@@ -175,15 +173,15 @@
   },
   "active": "0c235d2f651605f3",
   "lastOpenFiles": [
-    "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
-    "picoCTF/2019/Reversing/parte 4-2.md",
+    "Pasted image 20221119151319.png",
+    "Pasted image 20221119151113.png",
+    "Pasted image 20221119142928.png",
     "picoCTF/2019/Reversing/parte 4-1 reverse_cipher.md",
-    "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
-    "picoCTF/2019/Reversing/parte 3-3 asm3.md",
     "picoCTF/2019/Reversing/parte 3-4 asm4.md",
-    "picoCTF/2019/Reversing/parte 3-2 asm2.md",
-    "picoCTF/2022/Binary Explotation/parte 1-1 basic-file-exploit.md",
-    "picoCTF/2022/Reversing/unpackme.py.md",
-    "picoCTF/2022/Reversing/bloat.py.md"
+    "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
+    "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
+    "picoCTF/2019/Reversing/parte 4-2.md",
+    "picoCTF/2019/Reversing/parte 3-3 asm3.md",
+    "picoCTF/2019/Reversing/parte 3-2 asm2.md"
   ]
 }
