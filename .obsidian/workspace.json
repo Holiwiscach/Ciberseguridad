@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
+                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
+                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
+                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md"
+                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "0c235d2f651605f3",
   "lastOpenFiles": [
+    "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
     "picoCTF/2019/Reversing/parte 4-2.md",
     "picoCTF/2019/Reversing/parte 4-1 reverse_cipher.md",
     "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
@@ -183,7 +184,6 @@
     "picoCTF/2019/Reversing/parte 3-2 asm2.md",
     "picoCTF/2022/Binary Explotation/parte 1-1 basic-file-exploit.md",
     "picoCTF/2022/Reversing/unpackme.py.md",
-    "picoCTF/2022/Reversing/bloat.py.md",
-    "picoCTF/2022/Reversing/Safe Opener.md"
+    "picoCTF/2022/Reversing/bloat.py.md"
   ]
 }
