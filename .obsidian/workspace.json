@@ -4,57 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "344d6f11dabaeb43",
+        "id": "253300338c5fb9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a7b27237f4b9f2",
+            "id": "b9f37497621d9e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
+                "file": "picoCTF/2021/General Skills/06-Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee6f24e44c05a1a3",
+            "id": "17ac88110b9fa23f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
+                "file": "picoCTF/2019/Forensic/Parte 1-7 WhitePages.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "616da9662251104f",
+            "id": "48dfc6efbd5a63e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 4-1 reverse_cipher.md",
+                "file": "Metared_International/Misc/Empty Space - Reto Ecuador.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0c235d2f651605f3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221119152223.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221119152223.png",
+                "file": "Metared_International/Misc/Empty Space - Reto Ecuador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221119152223.png",
+                "file": "Metared_International/Misc/Empty Space - Reto Ecuador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221119152223.png"
+                "file": "Metared_International/Misc/Empty Space - Reto Ecuador.md"
               }
             }
           }
@@ -171,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c235d2f651605f3",
+  "active": "48dfc6efbd5a63e6",
   "lastOpenFiles": [
-    "Pasted image 20221119151319.png",
-    "Pasted image 20221119151113.png",
-    "Pasted image 20221119142928.png",
-    "picoCTF/2019/Reversing/parte 4-1 reverse_cipher.md",
-    "picoCTF/2019/Reversing/parte 3-4 asm4.md",
-    "picoCTF/2019/Reversing/parte 4-2 Need For Speed.md",
-    "picoCTF/2019/Reversing/parte 4-3 B1ll_Gat35.md",
-    "picoCTF/2019/Reversing/parte 4-2.md",
-    "picoCTF/2019/Reversing/parte 3-3 asm3.md",
-    "picoCTF/2019/Reversing/parte 3-2 asm2.md"
+    "Metared_International/Crypto/Mirror - Reto Ecuador.md",
+    "Metared_International/Misc/Empty Space - Reto Ecuador.md",
+    "picoCTF/2019/Forensic/Parte 1-7 WhitePages.md",
+    "picoCTF/2019/Forensic/Parte 1-6 m00nwalk.md",
+    "picoCTF/2019/Forensic/Parte 1-5 What Liea Within.md",
+    "picoCTF/2019/Forensic/Parte 1-4 extensions.md",
+    "picoCTF/2019/Forensic/Parte 1-3 shark on wire 1.md",
+    "picoCTF/2019/Forensic/Parte 1-2 So Meta.md",
+    "picoCTF/2019/Forensic/Parte 1-1 Glory of the Garden.md",
+    "picoCTF/2019/Cryptografía/parte 2-3 b00ltegRSA2.md"
   ]
 }
