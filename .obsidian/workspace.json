@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 3-2 asm2.md",
+                "file": "picoCTF/2019/Reversing/parte 3-3 asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 3-2 asm2.md",
+                "file": "picoCTF/2019/Reversing/parte 3-3 asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 3-2 asm2.md",
+                "file": "picoCTF/2019/Reversing/parte 3-3 asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2019/Reversing/parte 3-2 asm2.md"
+                "file": "picoCTF/2019/Reversing/parte 3-3 asm3.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "39a18300b8c8b495",
   "lastOpenFiles": [
+    "picoCTF/2019/Reversing/parte 3-2 asm2.md",
     "picoCTF/2022/Binary Explotation/parte 1-1 basic-file-exploit.md",
     "picoCTF/2022/Binary Explotation/parte 1-2 buffer overflow 0.md",
     "Metared_International/Forensic/bufa secret.md",
@@ -159,7 +160,6 @@
     "Metared_International/Misc/Hackme - Ecuador.md",
     "picoCTF/2019/Reversing/parte 1-1 vault-door-training.md",
     "picoCTF/2019/Reversing/parte 2-1 vault-door-5.md",
-    "picoCTF/2019/Reversing/parte 1-4 vault-door-4.md",
-    "picoCTF/2019/Reversing/parte 1-3 vault-door-3.md"
+    "picoCTF/2019/Reversing/parte 1-4 vault-door-4.md"
   ]
 }
